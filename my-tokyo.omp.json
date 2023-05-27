@@ -7,7 +7,7 @@
         {
           "foreground": "#7eb8da",
           "style": "plain",
-          "template": "\u250f[<#ffffff>\ue795</> {{ .Name }} {{ .Version }}]",
+          "template": "\u250f[<#ffffff>\ue795</> {{ .Name }} v{{ .Version }}]",
           "type": "shell"
         },
         {
